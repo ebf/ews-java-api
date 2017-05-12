@@ -59,7 +59,7 @@
     <repositories>
         <repository>
             <id>ebf-releases</id>
-            <url>http://cindy.ebf.de:8081/nexus/content/repositories/releases/</url>
+            <url>http://repository.dev.ebf.de/nexus/content/repositories/releases/</url>
             <snapshots>
                 <updatePolicy>always</updatePolicy>
                 <enabled>false</enabled>
@@ -67,7 +67,7 @@
         </repository>
         <repository>
             <id>ebf-snapshots</id>
-            <url>http://cindy.ebf.de:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://repository.dev.ebf.de/nexus/content/repositories/snapshots/</url>
             <snapshots>
                 <updatePolicy>always</updatePolicy>
                 <enabled>true</enabled>
