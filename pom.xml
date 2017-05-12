@@ -177,12 +177,12 @@
         <repository>
             <id>ebf-releases-deployment</id>
             <name>Internal Releases</name>
-            <url>http://cindy.ebf.de:8081/nexus/content/repositories/releases/</url>
+            <url>http://repository.dev.ebf.de/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>ebf-snapshots-deployment</id>
             <name>Internal Releases</name>
-            <url>http://cindy.ebf.de:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://repository.dev.ebf.de/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
